@@ -36,7 +36,7 @@ const start = async () => {
   } catch (error) {
     //log the error if the database connection fails
     console.log(error);
-    console.log("Unable to connect");
+    console.log("Unable too connect");
   }
 };
 
